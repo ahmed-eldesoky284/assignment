@@ -2,27 +2,29 @@
 
 int main()
 {
-    int print;
-    printf("Enter a student print : ");
-    scanf("%d", &print);
-    switch (print)
+    float grade;
+    printf("Please enter the student grade : ");
+    scanf("%f",&grade);
+ 
+    if(grade>=85)
     {
-    case 100 ... 85:
         printf("Excellent");
-        break;
-
-    case 84 ... 75:
-        printf("very good");
-        break;
-    case 74 ... 65:
-        printf("good");
-        break;
-    case 64 ... 50:
-        printf("pass");
-        break;
-
-    case 49 ... 0:
-        printf("fail");
-        break;
     }
+    else if(85>grade && grade>=75)
+    {
+        printf("Very Good");
+    }
+    else if(75>grade && grade>=65)
+    {
+        printf("Good");
+    }
+    else if(65>grade && grade>=50)
+    {
+        printf("Pass");
+    }
+    else
+    {
+        printf("Fail");
+    }
+    return 0;
 }
