@@ -15,12 +15,13 @@
 
 
 # Problems2
-  1- Check number is positive or negative. 
-  2- calculate power of a number (2^3 = 8, 3^2 = 9)
-  3- convert binary to decimal.
-  4- convert decimal to binary.
-  5- count digits of number (234 = 3digits)
-  6- find ascii value of char.
+
+  1. Check number is positive or negative
+  2. calculate power of a number (2^3 = 8, 3^2 = 9):
+  3. convert binary to decimal:
+  4. convert decimal to binary:
+  5. count digits of number (234 = 3digits):
+  6. find ascii value of char:
   
   and more Problems..
 
