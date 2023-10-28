@@ -1,7 +1,7 @@
 # assignment fix many problems in C Programming
 # Problems 
   1- Add 2 Numbers [ without + operator]
-  2- Add2num [half adder Method] /n
+  2- Add2num [half adder Method] 
   3- Check a number even or odd. (2 methods)
   4- Check if the number is prime or not.
   5- convert decimal to binary.
