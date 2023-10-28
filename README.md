@@ -24,7 +24,7 @@
   
   and more Problems..
 
-![assignment](https://github.com/ahmed-eldesoky284/assignment/blob/main/Problems2.PNG)
+![assignment](https://github.com/ahmed-eldesoky284/assignment/blob/main/Problems2.png)
 
 
   
