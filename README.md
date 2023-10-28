@@ -8,7 +8,7 @@
   6- count number of digits.
   
   and more Problems..
-
+![assignment](https://github.com/ahmed-eldesoky284/assignment/blob/main/Problems.PNG)
 
   
 
@@ -24,6 +24,7 @@
   
   and more Problems..
 
+![assignment](https://github.com/ahmed-eldesoky284/assignment/blob/main/Problems2.PNG)
 
 
   
