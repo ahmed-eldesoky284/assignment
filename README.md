@@ -34,12 +34,12 @@
 
 # Problems3 :
 
-  1. Check number is positive or negative
-  2. calculate power of a number (2^3 = 8, 3^2 = 9)
-  3. convert binary to decimal
-  4. convert decimal to binary
-  5. count digits of number (234 = 3digits)
-  6. find ascii value of char
+ 1. [Pointer-Function] Add 2 Integer Numbers
+ 2. [Pointer-Function] sum of positive number
+ 3. [Pointer-Function] Swapping 2Numbers
+ 4. Find Reverse of Integer Number
+ 5. Find Factorial of Number (recursive function)
+ 6. display Fibonacci of number (recursive function)
   
   and more Problems..
   
