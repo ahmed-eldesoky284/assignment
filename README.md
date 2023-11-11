@@ -29,6 +29,9 @@
   
 ![assignment](https://github.com/ahmed-eldesoky284/assignment/blob/main/Problems2‏/Problems2.png)
 
+
+
+
 # Problems3 :
 
   1. Check number is positive or negative
@@ -40,7 +43,7 @@
   
   and more Problems..
   
-![assignment](https://github.com/ahmed-eldesoky284/assignment/blob/main/Problems3/Problems3.png)
+![assignment](https://github.com/ahmed-eldesoky284/assignment/blob/main/Problem3/Problems3.png)
 
 
   
